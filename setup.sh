@@ -7,7 +7,7 @@
 sudo apt-get install -y git
 sudo apt-get install -y curl
 cd $HOME
-wget https://raw.github.com/creationix/nvm/master/install.sh | sh
+wget https://raw.github.com/creationix/nvm/master/install.sh
 
 # Load nvm and install latest production node
 ./install.sh
